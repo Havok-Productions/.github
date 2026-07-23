@@ -1,4 +1,4 @@
-## About Us
+## About Us - indirect affiliate of Folia Inquisitors. 
 
 This organization was founded by [Yomamaeatstoes](https://github.com/Yomamaeatstoes). This org mainly houses plugins that I have done myself. Folia inquisitors goes through more approvals, this does not. More experimental plugins, less burocracy, more changes. 
 
