@@ -1,21 +1,5 @@
 ## About Us
 
-This organization was founded by [Yomamaeatstoes](https://github.com/Yomamaeatstoes). It is a collective of freelance developers who create and port plugins compatible with [Folia](https://github.com/PaperMC/Folia). We are always looking for new members to join our team. If you are interested in joining, please contact us through our Discord server.
-
-Archived projects/ Achived forks / discontinued / PR request / not finished projects will be posted here https://github.com/orgs/Inquisitors-transfers/repositories 
-
-## Affiliated Libraries
-
-The following libraries are used by our organization:
-
-| Name | Author | Type |
-| --- | --- | --- |
-| [MineLib](https://github.com/ProjectUnified/MineLib) | [Project Unified](https://github.com/ProjectUnified) | Public |
-| [FoliaLib](https://github.com/TechnicallyCoded/FoliaLib) | [TechnicallyCoded](https://github.com/TechnicallyCoded) | Public |
-| [HSCore](https://github.com/HSGamer/HSCore) | [HSGamer](https://github.com/HSGamer) | Personal |
-
-## Requests and Commissions
-
-Some of the freelancers who helped make this possible are in the discord. If you have a plugin that you would like to have ported or an idea that you would like to implement in Folia, please join our Discord server and submit your request. 
+This organization was founded by [Yomamaeatstoes](https://github.com/Yomamaeatstoes). This area mainly houses plugins that I have done myself. Folia inquisitors goes through more approvals, this does not. More experimental plugins, less burocracy, more changes. 
 
 [![Discord](https://discordapp.com/api/guilds/1200954824250888192/widget.png?style=banner2)](https://discord.gg/aT9z7q7hX8)
